@@ -1,0 +1,30 @@
+body{
+	background-color: #06062F;
+}
+#mostrar{
+	margin: auto;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	width: 252px;
+	height: 80px;
+}
+img{
+	width: 40px;
+	height: 40px;
+}
+p{
+	color: white;
+}
+.espaco{
+	width: 80px;
+	height: 60px;
+	border: 2px solid white;
+	float: left;
+	text-align: center;
+	padding-top: 20px; 
+}
+.tabuleiro{
+	width: 252px;
+	height: 252px;
+	margin: auto;
+}
